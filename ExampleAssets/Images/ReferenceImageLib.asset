@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLib
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5399633119225449844
+  m_GuidHigh: 1658701775662133387
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5125509239514518060
+      m_GuidHigh: 8552890759229392527
+    m_SerializedTextureGuid:
+      m_GuidLow: 3045804918016700000
+      m_GuidHigh: 12263723139385508072
+    m_Size: {x: 0.254, y: 0.16891992}
+    m_SpecifySize: 1
+    m_Name: Spider
+    m_Texture: {fileID: 2800000, guid: 8185ee60df6f2a44e8c0cf22387f31aa, type: 3}
